@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618309503 source:d:\c file\nationalflag\main.cpp
+	<iostream>
+	<graphics.h>
+
